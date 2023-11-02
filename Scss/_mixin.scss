@@ -1,0 +1,10 @@
+@mixin btn {
+    max-width: 173px;
+    border-radius: 24px;
+    background: #BA4270;
+    color: #FBFCFE;
+    font-weight: 700;
+    border: none;
+    padding: 16px 24px 14px 20px;
+    box-shadow: 10px 10px 25px -10px rgba(54, 83, 107, 0.25);
+}
